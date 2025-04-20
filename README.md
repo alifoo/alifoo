@@ -1,5 +1,8 @@
-$ alifoo
+![OS](https://img.shields.io/badge/OS-Arch_Linux-blue?logo=arch-linux)
+![Languages](https://img.shields.io/badge/Languages-Python|Go|TS-yellow)
+![Learning](https://img.shields.io/badge/Learning-Elixir|Java|Kubernetes-orange)
 ```
+$ alifoo
          _             Alisson Ayres
         / /\           --------------------
        / /  \          Job: "Backend Engineer @Mercafacil"
