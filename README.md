@@ -1,4 +1,4 @@
-```python
+```C++
 $ alifoo
          _             Alisson Ayres
         / /\           --------------------
