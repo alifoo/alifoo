@@ -1,9 +1,9 @@
-```C++
+```python
 $ alifoo
          _             Alisson Ayres
         / /\           --------------------
        / /  \          Job: "Backend Engineer @Mercafacil"
-      / / /\ \         Education: "Computer Science @PUCPR | Dean's list student"
+      / / /\ \         Education: "Computer Science @PUCPR | Dean's list student (2025)"
      / / /\ \ \        Programming Languages: "Python, Golang, C, C++"
     / / /  \ \ \       Currently Learning: "Elixir, Kubernetes, AWS"
    / / /___/ /\ \      Frameworks/Libraries: "Django, React, NumPy, Pandas"
